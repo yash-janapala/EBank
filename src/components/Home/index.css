@@ -1,0 +1,33 @@
+.home-bg-container {
+  background-color: #152850;
+  height: 100vh;
+  padding: 30px 60px;
+}
+
+.home-details-container {
+  display: flex;
+  height: 80vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.home-details-heading {
+  color: #ffffff;
+  font-size: 42px;
+}
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.digital-card-image {
+  height: 300px;
+}
+.logout-button {
+  color: #c3cad9;
+  border: 1px solid #c3cad9;
+  background: transparent;
+  padding: 5px 15px;
+  outline: none;
+  cursor: pointer;
+}
